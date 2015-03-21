@@ -13,7 +13,7 @@
 		"psr-0": {
 			"HmacAuthenticate\\": "dasdo/HmacAuthenticate/",
 			"HmacAuthenticate\\Models\\": "dasdo/HmacAuthenticate/models/",
-			"HmacAuthenticate\\Events\\": "dasdo/HmacAuthenticate/events/",
+			"HmacAuthenticate\\Events\\": "dasdo/HmacAuthenticate/events/"
 		}
 	}
 }
