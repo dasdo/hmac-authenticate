@@ -1,0 +1,19 @@
+{
+	"name": "Dasdo/HmacAuthenticate",
+	"description": "Security System and tokens to rest api",
+	"keywords": ["Phalcon","Security","Rest api"],
+	"license": "MIT",
+	"version": "1.0.0",	
+	"autoload": {
+		"classmap": [
+			"/",
+			"models/",
+			"events/"
+		],
+		"psr-0": {
+			"HmacAuthenticate\\": "dasdo/HmacAuthenticate/",
+			"HmacAuthenticate\\Models\\": "dasdo/HmacAuthenticate/models/",
+			"HmacAuthenticate\\Events\\": "dasdo/HmacAuthenticate/events/",
+		}
+	}
+}
