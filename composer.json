@@ -1,5 +1,5 @@
 {
-	"name": "Dasdo/HmacAuthenticate",
+	"name": "dasdo/hmac-authenticate",
 	"description": "Security System and tokens to rest api",
 	"keywords": ["Phalcon","Security","Rest api"],
 	"license": "MIT",
